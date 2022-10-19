@@ -5,7 +5,7 @@
 # Overview
 This project used raw CSV data from Citi Bikes program to create a persuasive and immersive story powered by Tableau.  
 
-See the presentation [here!](https://public.tableau.com/app/profile/hale.soyster/viz/CitiBikeChallenge_16658652770180/Story1?publish=yes)
+## **See the presentation [here!](https://public.tableau.com/app/profile/hale.soyster/viz/CitiBikeChallenge_16658652770180/Story1?publish=yes)**
 
 # Results
 
